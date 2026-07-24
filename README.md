@@ -3,6 +3,30 @@
 An end-to-end Machine Learning project that predicts whether a telecom customer is likely to churn using classification algorithms and an interactive Streamlit web application.
 
 ---
+## 📸 Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+### Upload Dataset
+
+![Upload](screenshots/upload_data.png)
+
+---
+
+### Prediction Results
+
+![Results](screenshots/prediction_results.png)
+
+---
+
+### SHAP Feature Importance
+
+![SHAP](screenshots/shap_summary.png)
+
 
 ## 🚀 Project Overview
 
