@@ -177,7 +177,7 @@ GitHub:
 https://github.com/karamthot-anil-naik
 
 LinkedIn:
-(Add your LinkedIn URL)
+(https://www.linkedin.com/in/karamthotanilnaikk/)
 
 ---
 
